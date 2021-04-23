@@ -1,0 +1,36 @@
+Hi! Ghosty here!
+
+To run the mod you must have
+1. A installation of Doki Doki Literature Club. (You can download the game at Steam, Itch.io and https://ddlc.moe)
+
+Once you downloaded the original game, Delete everything in the game folder.
+Then go to the Doki Doki: Lunar folder, and copy everything in that game folder and paste into the game folder of the original Doki Doki Literature Club game folder.
+then run the DDLC.exe and now you can play the mod!
+(Copy/Paste this file too! (Not in the game folder))
+If you face any problem with the mod or you would like to give an suggestion,  You can DM Ghosty at Discord by Ghosty#9987
+
+Note : This mod is a Doki Doki Literature Club fan game that is not affiliated with Team Salvato. It is designed to be played only after the official game has been completed.
+Have fun!
+Made with DDLCModTemplate: https://github.com/Monika-After-Story/DDLCModTemplate
+                                                                                                                                                                        Credits
+
+                                                                                                                                                                        Concept
+                                                                                                                                                                         Ghosty
+                                                                                                                                                                       IbrahimTGD
+                                                                                                                                                            
+                                                                                                                                                                          Coders
+                                                                                                                                                                          Ghosty
+                                            
+                                                                                                                                                                         Writing
+                                                                                                                                                                       IbrahimTGD
+                                                                                                                                             
+
+
+
+
+
+
+
+
+
+
